@@ -1,0 +1,159 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    
+}
+.container {
+    display: flex;
+    flex-direction: row;
+}
+.space{
+    padding: 30px;
+}
+.left {
+    width: 300px;
+    height: 100%;
+    background-color: black;
+    color: #FFFFFF;
+    border: 2px;
+    border-radius: 10px solid pink;
+}
+
+#img1 {
+    border-radius: 2px solid rgb(241, 74, 102);
+    width: 298px;
+    height: 298px;
+    top: 32px;
+    left: 33px;
+}
+
+#restr {
+    width: 272px;
+    height: 15px;
+    padding-left: 10px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#slogan {
+    width: 119px;
+    height: 10px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FF2424;
+    padding-left: 85px;
+}
+
+#hr {
+    width: 401px;
+    top: 402px;
+    border: 1px;
+    color: #0C0E10;
+}
+
+#links {
+    width: 137px;
+    height: 30px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 10px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+    padding-left: 70px;
+}
+
+ol {
+    width: 183px;
+height: 180px;
+top: 480px;
+left: 30px;
+font-family: Poppins;
+font-size: 20px;
+font-weight: 150;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+#more {
+    width: 177px;
+    height: 36px;
+    top: 701px;
+    left: 124px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+    padding-left: 70px;
+}
+
+.right {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    background-color: #0C0E10;
+}
+
+.menubar {
+    width: 1327px;
+    height: 83px;
+    left: 401px;
+    color: #191D20;
+}
+
+#btn {
+    background: #FF2424;
+    color: #FFFFFF;
+    width: 176px;
+    height: 46px;
+    top: 20px;
+    left: 1261px;
+
+}
+
+#input {
+    width: 812px;
+    height: 46px;
+    top: 20px;
+    left: 426px;
+    border-radius: 5px;
+    background: #272A30;
+
+}
+
+#menu {
+    width: 69px;
+    height: 36px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+    padding-left: 30px;
+}
+
+.item1 {
+    width: 350px;
+    height: 247px;
+    border-radius: 10px;
+    padding-left: 70px;
+}
